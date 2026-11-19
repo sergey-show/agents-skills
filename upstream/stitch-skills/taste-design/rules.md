@@ -1,0 +1,21 @@
+# Rules (extracted)
+
+- Never use pure black (`#000000`) — use Off-Black, Zinc-950, or Charcoal
+- No overlapping elements — every element occupies its own clear spatial zone. No absolute-positioned content stacking
+- No emojis anywhere
+- No generic serif fonts (`Times New Roman`, `Georgia`, `Garamond`) — distinctive modern serifs only if needed
+- No pure black (`#000000`)
+- No neon/outer glow shadows
+- No oversaturated accents
+- No excessive gradient text on large headers
+- No custom mouse cursors
+- No overlapping elements — clean spatial separation always
+- No 3-column equal card layouts
+- No generic names ("John Doe", "Acme", "Nexus")
+- No fake round numbers (`99.99%`, `50%`)
+- No fabricated data or statistics — never generate metrics, performance numbers, uptime percentages, response times, or any data that the user did not explicitly provide. "99.98% UPTIME SLA", "124ms AVG. RESPONSE", "18.5k DEPLOY CYCLES" are invented AI filler. If real data is not available, use clear placeholder labels like `[metric]` instead of making up numbers
+- No fake system/metric sections — "SYSTEM PERFORMANCE METRICS", "KEY STATISTICS", "BY THE NUMBERS" dashboard cards filled with invented data are BANNED
+- No AI copywriting clichés ("Elevate", "Seamless", "Unleash", "Next-Gen")
+- No filler UI text: "Scroll to explore", "Swipe down", scroll arrows, bouncing chevrons
+- No broken Unsplash links — use `picsum.photos` or SVG avatars
+- No centered Hero sections (for high-variance projects)

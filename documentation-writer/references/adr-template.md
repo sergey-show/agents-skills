@@ -1,0 +1,6 @@
+# ADR-NNNN: Title
+Status: Proposed|Accepted|Deprecated|Superseded
+## Context
+## Decision
+## Alternatives
+## Consequences

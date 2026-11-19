@@ -1,0 +1,17 @@
+research/
+message.md
+docs/
+scripts/
+licenses/
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+*.log

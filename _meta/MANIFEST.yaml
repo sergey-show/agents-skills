@@ -1,0 +1,246 @@
+# DoT skill catalog
+version: 5
+curated_roles: 55
+upstream_ports: 520
+skills:
+  - id: a11y-auditor
+    role: "Accessibility Auditor"
+    category: engineering
+    path: a11y-auditor/
+  - id: a11y-engineer
+    role: "Accessibility Engineer"
+    category: engineering
+    path: a11y-engineer/
+  - id: agent-observability
+    role: "Agent Observability Engineer"
+    category: meta
+    path: agent-observability/
+  - id: api-designer
+    role: "API / Interface Designer"
+    category: engineering
+    path: api-designer/
+  - id: autonomous-loop
+    role: "Autonomous Loop Designer"
+    category: meta
+    path: autonomous-loop/
+  - id: brand-voice
+    role: "Brand Voice Strategist"
+    category: design
+    path: brand-voice/
+  - id: browser-debugger
+    role: "Browser Debugger"
+    category: engineering
+    path: browser-debugger/
+  - id: careful-ops
+    role: "Safety Officer (Ops)"
+    category: ops
+    path: careful-ops/
+  - id: change-impact
+    role: "Change Impact Analyst"
+    category: engineering
+    path: change-impact/
+  - id: ci-cd-engineer
+    role: "CI/CD Engineer"
+    category: ops
+    path: ci-cd-engineer/
+  - id: code-simplifier
+    role: "Simplification Engineer"
+    category: engineering
+    path: code-simplifier/
+  - id: coding-standards
+    role: "Coding Standards Guardian"
+    category: engineering
+    path: coding-standards/
+  - id: content-writer
+    role: "Content Writer"
+    category: design
+    path: content-writer/
+  - id: context-engineer
+    role: "Context Engineer"
+    category: meta
+    path: context-engineer/
+  - id: debugger
+    role: "Systematic Debugger"
+    category: engineering
+    path: debugger/
+  - id: design-auditor
+    role: "Design Auditor"
+    category: design
+    path: design-auditor/
+  - id: design-builder
+    role: "Design Builder"
+    category: design
+    path: design-builder/
+  - id: design-director
+    role: "Senior Designer (Anti-Slop)"
+    category: design
+    path: design-director/
+  - id: design-system
+    role: "Design System Lead"
+    category: design
+    path: design-system/
+  - id: documentation-writer
+    role: "Documentation / ADR Author"
+    category: engineering
+    path: documentation-writer/
+  - id: e2e-tester
+    role: "E2E Test Engineer"
+    category: engineering
+    path: e2e-tester/
+  - id: eng-architect
+    role: "Engineering Manager / Plan Reviewer"
+    category: engineering
+    path: eng-architect/
+  - id: eval-engineer
+    role: "Eval Harness Engineer"
+    category: meta
+    path: eval-engineer/
+  - id: frontend-engineer
+    role: "Frontend UI Engineer"
+    category: engineering
+    path: frontend-engineer/
+  - id: git-workflow
+    role: "Git / Versioning Lead"
+    category: ops
+    path: git-workflow/
+  - id: interviewer
+    role: "Relentless Interviewer"
+    category: product
+    path: interviewer/
+  - id: knowledge-distiller
+    role: "Knowledge Distillation Engineer"
+    category: meta
+    path: knowledge-distiller/
+  - id: knowledge-mapper
+    role: "Knowledge Graph Engineer"
+    category: research
+    path: knowledge-mapper/
+  - id: learn-memory
+    role: "Project Memory Steward"
+    category: meta
+    path: learn-memory/
+  - id: market-researcher
+    role: "Market Intelligence Analyst"
+    category: research
+    path: market-researcher/
+  - id: mcp-patterns
+    role: "Capability Server Designer"
+    category: engineering
+    path: mcp-patterns/
+  - id: migration-engineer
+    role: "Deprecation / Migration Lead"
+    category: engineering
+    path: migration-engineer/
+  - id: minimal-coder
+    role: "Lazy Senior Developer (Ponytail)"
+    category: engineering
+    path: minimal-coder/
+  - id: observability-engineer
+    role: "Observability Engineer"
+    category: ops
+    path: observability-engineer/
+  - id: orchestrator
+    role: "Multi-Agent Orchestrator"
+    category: meta
+    path: orchestrator/
+  - id: performance-engineer
+    role: "Performance Engineer"
+    category: engineering
+    path: performance-engineer/
+  - id: process-engineer
+    role: "Methodology Lead (Superpowers / DevFlow)"
+    category: engineering
+    path: process-engineer/
+  - id: product-ceo
+    role: "CEO / Founder (Office Hours)"
+    category: product
+    path: product-ceo/
+  - id: qa-lead
+    role: "QA Lead"
+    category: engineering
+    path: qa-lead/
+  - id: release-engineer
+    role: "Release Engineer"
+    category: ops
+    path: release-engineer/
+  - id: research-analyst
+    role: "Deep Research Analyst"
+    category: research
+    path: research-analyst/
+  - id: reverse-engineer
+    role: "Reverse Engineer"
+    category: research
+    path: reverse-engineer/
+  - id: search-first
+    role: "Reuse Scout"
+    category: engineering
+    path: search-first/
+  - id: security-hunter
+    role: "Vulnerability Hunter"
+    category: security
+    path: security-hunter/
+  - id: security-officer
+    role: "Chief Security Officer"
+    category: security
+    path: security-officer/
+  - id: ship-gate
+    role: "Ship Gate Captain"
+    category: ops
+    path: ship-gate/
+  - id: skill-author
+    role: "DoT Skill Author"
+    category: meta
+    path: skill-author/
+  - id: spec-author
+    role: "Spec / Requirements Engineer"
+    category: engineering
+    path: spec-author/
+  - id: sprint-router
+    role: "Sprint Composition Router"
+    category: meta
+    path: sprint-router/
+  - id: staff-reviewer
+    role: "Staff Engineer (Code Review)"
+    category: engineering
+    path: staff-reviewer/
+  - id: tdd-engineer
+    role: "Test-Driven Engineer"
+    category: engineering
+    path: tdd-engineer/
+  - id: token-optimizer
+    role: "Context Economist"
+    category: meta
+    path: token-optimizer/
+  - id: verification-loop
+    role: "Verification Lead"
+    category: engineering
+    path: verification-loop/
+  - id: web-researcher
+    role: "Platform Research Analyst"
+    category: research
+    path: web-researcher/
+  - id: webperf-auditor
+    role: "Web Performance Auditor"
+    category: engineering
+    path: webperf-auditor/
+
+upstream:
+  count: 520
+  repos:
+  - Agent-Reach: 1
+  - LoopForge: 2
+  - TokenEconomizer: 5
+  - agent-skills: 26
+  - chrome-devtools-mcp: 8
+  - everything-claude-code: 328
+  - graphify: 1
+  - gstack: 63
+  - hallmark: 1
+  - impeccable: 2
+  - mattpocock-skills: 39
+  - ponytail: 6
+  - rea: 5
+  - security-audit-skill: 1
+  - stitch-skills: 16
+  - superpowers: 15
+  - taste-skill: 1
